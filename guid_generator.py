@@ -38,7 +38,7 @@ def guid_generator(input_list, separator):
     guid = start_guid[:-1]
     return(guid)
 
-firstarg = [4,2,2,4]
+firstarg = [4,2,2,2,6]
 secondarg = "-"
 
 home_made_guid = guid_generator(input_list = firstarg, separator = secondarg)
