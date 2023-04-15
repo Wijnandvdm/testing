@@ -2,3 +2,4 @@ data
 env-file.env
 envfile.py
 web-scraper/__pycache__
+web-scraper/outputfiles
